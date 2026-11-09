@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\laptop\\source\\repos\\lab_08_1_it\\unittest_lab_08_1_it\\pch.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\laptop\\source\\repos\\lab_08_1_it\\unittest_lab_08_1_it\\pch.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
